@@ -28,7 +28,7 @@ public class Ejemplo11 {
                     throw new Exception("Número negativos");
                 }
 
-                if (valor1 > 100) {
+                if (valor1 > 200) {
                     throw new Exception("El valor de primer valor es muy alto");
                 }
                 int resultado = valor1 / valor2;
